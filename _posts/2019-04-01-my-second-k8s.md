@@ -3,7 +3,7 @@ layout: post
 title:  "My first k8s post"
 ---
 
-Kubernetes concept v2
+Kubernetes concept v8
 
 # Kubernetes
 ## Minikube
